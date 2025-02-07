@@ -16,7 +16,7 @@
 ## Установка
 Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Caroline_1707/Cookbook.git && cd Cookbook/
+git clone https://github.com/Caroline_1707/cookbook.git && cd cookbook/
 ```
 Создайте виртуальное окружение:
 ```bash
